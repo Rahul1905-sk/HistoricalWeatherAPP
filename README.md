@@ -13,7 +13,7 @@ A responsive and interactive dashboard built with React that displays historical
 
 ## Demo
 
-[Live Demo](https://weather-dashboard-demo.netlify.app)
+[Live Demo](https://historical-weather-app.netlify.app/)
 
 ## Prerequisites
 
@@ -25,8 +25,8 @@ A responsive and interactive dashboard built with React that displays historical
 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+git clone https://github.com/Rahul1905-sk/HistoricalWeatherAPP.git
+cd HistoricalWeatherAPP
 ```
 
 2. Install dependencies:
